@@ -1,0 +1,22 @@
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgb(48, 48, 48);
+    padding: 10px 10px;
+    text-align: center;
+}
+header a {
+    color: white;
+    text-decoration: none;
+    margin: 10px 10px;
+}
+section {
+    position: relative;
+    padding: 40px 10px;
+    min-height: 100vh;
+    margin: 10px 0px 0px 0px;
+}
+
+
