@@ -1,5 +1,4 @@
 header {
-    position: sticky;
     top: 0;
     left: 0;
     width: 100%;
@@ -11,9 +10,9 @@ header a {
     color: white;
     text-decoration: none;
     margin: 10px 10px;
+    position: sticky;
 }
 section {
-    position: relative;
     padding: 40px 10px;
     min-height: 100vh;
     margin: 10px 0px 0px 0px;
